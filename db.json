@@ -1,3 +1,4 @@
+{
 [{
 		"active": true,
 		"description": "Harness Functional Manager",
@@ -329,3 +330,4 @@
 		"url": "https://clickonce-apps-engineering-accept.internal.draexlmaier.com/hed-hpm/"
 	}
 ]
+}
